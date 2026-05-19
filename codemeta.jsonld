@@ -21,7 +21,7 @@
       "applicationSubCategory": { "@id": "schema:applicationSubCategory"},
       "citation": { "@id": "schema:citation"},
       "codeRepository": { "@id": "schema:codeRepository", "@type": "@id"},
-      "contactPoint": { "@id": "schema:contactPoint", "@container": "@set" },
+      "contactPoint": { "@id": "schema:contactPoint" },
       "contactType": { "@id": "schema:contactType" },
       "contributor": { "@id": "schema:contributor", "@container": "@list" },
       "copyrightHolder": { "@id": "schema:copyrightHolder"},
