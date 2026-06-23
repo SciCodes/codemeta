@@ -8,6 +8,8 @@
     "name": "Scott Peckham"
   },
   "citation": "Peckham; S. D. 'Geomorphometry and spatial hydrologic modelling.' Developments in Soil Science 33 (2009): 579-602.",
+  "citeAs": "https://doi.org/10.1594/IEDA/100174",
+  "citeWith": ["https://doi.org/10.1016/S0166-2481(08)00025-1"],
   "contributor": {
     "id": "https://w3id.org/okn/i/mint/bolton_bob",
     "type": "Person",
@@ -24,5 +26,5 @@
     "name": "Topoflow source code",
     "codemeta:codeRepository": "https://github.com/peckhams/topoflow"
   },
-  "referencePublication": "Peckham; S. D. 'Geomorphometry and spatial hydrologic modelling.' Developments in Soil Science 33 (2009): 579-602."
+  "referencePublication": "https://doi.org/10.1016/S0166-2481(08)00025-1"
 }

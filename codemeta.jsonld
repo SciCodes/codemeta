@@ -20,6 +20,8 @@
       "applicationCategory": { "@id": "schema:applicationCategory"},
       "applicationSubCategory": { "@id": "schema:applicationSubCategory"},
       "citation": { "@id": "schema:citation"},
+      "citeAs": { "@id": "codemeta:citeAs", "@type": "@id"},
+      "citeWith": { "@id": "codemeta:citeWith", "@type": "@id"},
       "codeRepository": { "@id": "schema:codeRepository", "@type": "@id"},
       "contactPoint": { "@id": "schema:contactPoint" },
       "contactType": { "@id": "schema:contactType" },
