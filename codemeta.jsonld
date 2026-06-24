@@ -94,7 +94,7 @@
   "@graph": [
     {
       "@id" : "https://w3id.org/codemeta/terms/",
-      "@type" : "schema:CrativeWork" ,
+      "@type" : "schema:CreativeWork" ,
       "schema:dateCreated":"2026-06-23T09:00:00",
       "schema:version":"4.0",
       "schema:schemaVersion":"https://schema.org/docs/releases.html#v30.0",
