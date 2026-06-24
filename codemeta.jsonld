@@ -37,7 +37,6 @@
       "encodingFormat": { "@id": "schema:encodingFormat"},
       "endDate": { "@id": "schema:endDate", "@type": "schema:Date"},
       "familyName": { "@id": "schema:familyName"},
-      "fileFormat": { "@id": "schema:fileFormat"},
       "fileSize": { "@id": "schema:fileSize"},
       "funder": { "@id": "schema:funder"},
       "funding": { "@id": "schema:funding"},
