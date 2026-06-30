@@ -136,7 +136,7 @@ operates according to the rules specified in the
 | Aida Jafarbigloo | Carl von Ossietzky Universität Oldenburg | [@Aidajafarbigloo](https://github.com/Aidajafarbigloo) |
 | Linda Angulo Lopez | Software Heritage | [@lindangulopez](https://github.com/lindangulopez) |
 | Maxence Azzouz| Fiz Karlsruhe University | [@Mazztok45](https://github.com/Mazztok45) |
-| Allen Lee | ASU/OMF | [@allenlee](https://github.com/allenlee) |
+| Allen Lee | ASU/OMF | [@alee](https://github.com/alee) |
 | Jael García Castro| ZBMED | [@ljgarcia](https://github.com/ljgarcia) |
 | Jozefina Sadowska | Inria | []() |
 | Esteban Gonzalez Guardia| Universidad Politécnica de Madrid | [@esgg](https://github.com/esgg) |
